@@ -9,10 +9,10 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naveen-ramavath&color=7B8EFF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramavath-naveen-049460324/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveen-ramavath)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenramavath559@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveenramavath4203/)
+<a href="https://www.linkedin.com/in/ramavath-naveen-049460324/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/naveen-ramavath" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:naveenramavath559@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://leetcode.com/u/naveenramavath4203/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 </div>
 
@@ -69,7 +69,7 @@ naveen = {
 - Developed machine learning models using soil and climate datasets to generate accurate crop recommendations.
 - Designed REST APIs and MongoDB schema; integrated an AI chatbot and expert consultation features to improve decision-making for farmers.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MiniProjectII/agri-ai-advisory-system)
+<a href="https://github.com/MiniProjectII/agri-ai-advisory-system" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 
 ---
 
@@ -80,7 +80,7 @@ naveen = {
 - Reduced manual deployment effort and improved release reliability by configuring Nginx, SSH authentication, and Linux server management for secure hosting.
 - Applied DevOps best practices including version control, deployment automation, and cloud monitoring.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/naveen-ramavath)
+<a href="https://github.com/naveen-ramavath" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 
 ---
 
@@ -91,7 +91,7 @@ naveen = {
 - Implemented JWT authentication and secure backend APIs for robust patient data management.
 - Designed scalable database operations and optimized API communication between frontend and backend.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/naveen-ramavath/Digital-Health-portfolio)
+<a href="https://github.com/naveen-ramavath/Digital-Health-portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 
 ---
 
@@ -105,7 +105,7 @@ naveen = {
 ---
 
 ## Achievements
-- **LeetCode** — [Solved 300+ DSA Problems](https://leetcode.com/u/naveenramavath4203/)
+- **LeetCode** — <a href="https://leetcode.com/u/naveenramavath4203/" target="_blank">Solved 300+ DSA Problems</a>
 - **Project Leadership** — Led a 6-member team during the Cloud Computing Internship project development.
 - **Sudhee Hackathon** — Volunteer and Participant at CBIT.
 
@@ -127,14 +127,14 @@ naveen = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naveen-ramavath&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=naveen-ramavath&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 </div>
 
 ---
 
 ## Contribution Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen-ramavath&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-ramavath&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" /></a>
 
 ---
 
