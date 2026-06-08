@@ -23,7 +23,7 @@
 naveen = {
     "college"   : "CBIT — Information Technology (2023–2027)",
     "focus"     : "Full-Stack Development (MERN), Python Development, Cloud & DevOps",
-    "shipped"   : "5+ projects — live on GitHub",
+    "shipped"   : "5+ projects — On GitHub",
     "credentials": {
         "Oracle": "Cloud Infrastructure 2025 AI Associate",
         "MongoDB": "Certified Associate Developer (Python)"
