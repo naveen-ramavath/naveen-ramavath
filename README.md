@@ -23,8 +23,7 @@ naveen = {
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 ### 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen-ramavath&show_icons=true&theme=dark&count_private=true" alt="Naveen's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-ramavath&theme=dark" alt="GitHub Streak" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveen-ramavath&show_icons=true&theme=dark&count_private=true" alt="Naveen's GitHub Stats" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-ramavath&theme=dark" alt="GitHub Streak" height="180px" />
 </p>
