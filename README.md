@@ -50,12 +50,12 @@ class Developer:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen-ramavath&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Naveen's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naveen-ramavath&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Naveen's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-ramavath&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-ramavath&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naveen-ramavath&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" height="180px" />
 </p>
 
 ---
