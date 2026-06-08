@@ -16,13 +16,13 @@ naveen = {
     "interests": ["Machine Learning", "Cybersecurity", "AI Chatbots"]
 }
 ```
-###🛠️ Tech Stack & Socials
+### 🛠️ Tech Stack & Socials
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
-###📊 My GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=naveen-ramavath&show_icons=true&theme=dark&count_private=true" alt="Naveen's GitHub Stats" height="180px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-ramavath&theme=dark" alt="GitHub Streak" height="180px" />
