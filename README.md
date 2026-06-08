@@ -1,17 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ramavath%20Naveen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20CBIT%20IT&descAlignY=58&descSize=18&descColor=aaaaff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ramavath%20Naveen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20CBIT%20IT&descAlignY=58&descSize=18&descColor=aaaaff"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Python+Developer+%7C+Full-Stack+Development;React+%7C+JavaScript+%7C+Flask;CBIT+IT+%7C+B.E.+in+Information+Technology;Machine+Learning+%7C+Cybersecurity+%7C+AI+Chatbots;Building+Real-World+Projects+%7C+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=MERN+Stack+Developer+%7C+Python+Developer;Oracle+Cloud+Certified+AI+Associate;MongoDB+Certified+Developer+%7C+300%2B+LeetCode;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%7C+CI%2FCD;B.E.+in+Information+Technology+%40+CBIT" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naveen-ramavath&color=7B8EFF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramavath-naveen-049460324/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveen-ramavath)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenramavath559@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveenramavath4203/)
 
 </div>
 
@@ -21,10 +22,13 @@
 ```python
 naveen = {
     "college"   : "CBIT — Information Technology (2023–2027)",
-    "focus"     : "Python Development, Full-Stack Development, ML, CyberSecurity",
-    "shipped"   : "4+ projects — live on GitHub",
-    "tech_stack": ["Python", "React", "JavaScript", "Flask", "Kafka"],
-    "open_to"   : "Internships (Aug 2026) & SDE / Python Developer roles",
+    "focus"     : "Full-Stack Development (MERN), Python Development, Cloud & DevOps",
+    "shipped"   : "5+ projects — live on GitHub",
+    "credentials": {
+        "Oracle": "Cloud Infrastructure 2025 AI Associate",
+        "MongoDB": "Certified Associate Developer (Python)"
+    },
+    "open_to"   : "Internships (Aug 2026) & SDE / Full Stack roles",
 }
 ```
 
@@ -39,69 +43,71 @@ naveen = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Tools**
+**Backend, Database & Cloud**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+**DevOps & AI Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
 ## Projects
-**AeroGuard — Airplane Collision Detection System**
-`Python` `Apache Kafka` `PySpark` `Flask`
-
-- Engineered a real-time streaming pipeline processing aircraft telemetry data to detect and warn of imminent collisions.
-- Integrated Apache Kafka and PySpark for scalable stream processing and Flask for live web dashboard visualization.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/naveen-ramavath/airplane-collision-system-using-kafka-)
-
----
-
-**Crypto-Sense — Real-Time Crypto Streaming & Graph-Based Analysis**
-`Python` `Apache Kafka` `PySpark` `PageRank` `Flask`
-
-- Constructed a real-time cryptocurrency data streaming architecture integrating Apache Kafka and PySpark.
-- Implemented PageRank graph algorithms to analyze transaction connectivity, visualizing live streams on a custom Flask dashboard.
-
----
 
 **Agri AI Advisory System**
-`Python` `Machine Learning` `SQLite`
+`React.js` `Node.js` `MongoDB` `TensorFlow`
 
-- Built an intelligent agricultural recommendation engine for crop health and advisory based on soil and weather metrics.
-- Developed the data pipeline and recommendation models using machine learning to support decision-making for farmers.
+- Built a full-stack AI-powered farming advisory platform for scalable storage and retrieval of agricultural data.
+- Developed machine learning models using soil and climate datasets to generate accurate crop recommendations.
+- Designed REST APIs and MongoDB schema; integrated an AI chatbot and expert consultation features to improve decision-making for farmers.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MiniProjectII/agri-ai-advisory-system)
 
 ---
 
-**Digital Health Portfolio**
-`JavaScript` `React` `CSS`
+**AWS CI/CD Blog Deployment System**
+`AWS EC2` `GitHub Actions` `Nginx` `Linux`
 
-- Developed a responsive patient portal and digital health dashboard tracking health metrics.
-- Crafted an interactive UI with React, showcasing clinical visualizations and patient data management.
+- Designed and implemented an automated CI/CD pipeline using GitHub Actions and AWS EC2 to automate deployment workflows.
+- Reduced manual deployment effort and improved release reliability by configuring Nginx, SSH authentication, and Linux server management for secure hosting.
+- Applied DevOps best practices including version control, deployment automation, and cloud monitoring.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/naveen-ramavath)
+
+---
+
+**Digital Health Management System**
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+- Developed a role-based health record management system with secure dashboards for patients, doctors, and administrators.
+- Implemented JWT authentication and secure backend APIs for robust patient data management.
+- Designed scalable database operations and optimized API communication between frontend and backend.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/naveen-ramavath/Digital-Health-portfolio)
 
 ---
 
-**Emotion Music Generator**
-`HTML` `CSS` `JavaScript` `Web APIs`
-
-- Built a web application that recommends music playlists dynamically based on real-time emotion detection.
-- Crafted the frontend and integrated client-side media APIs for a seamless user experience.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/naveen-ramavath/emotion-music-generator)
+## Certifications
+| Issuer | Certification |
+|---|---|
+| **Oracle** | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate |
+| **MongoDB** | MongoDB Certified Associate Developer – Python |
+| **InternPro** | Cloud Computing Internship Certificate |
 
 ---
 
 ## Achievements
-- **Sudhee Hackathon** — Qualifier and participant, CBIT
-- **Event Volunteer** — *Capture the Flag*, CCC Club, CBIT (Sudhee 2025)
-- **LeetCode / NeetCode** — Problem solver focusing on DSA, algorithms, and data structures
-- **HackerRank** — Python programming badges and milestones
+- **LeetCode** — [Solved 300+ DSA Problems](https://leetcode.com/u/naveenramavath4203/)
+- **Project Leadership** — Led a 6-member team during the Cloud Computing Internship project development.
+- **Sudhee Hackathon** — Volunteer and Participant at CBIT.
 
 ---
 
