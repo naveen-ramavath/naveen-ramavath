@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ramavath%20Naveen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20CBIT%20IT&descAlignY=58&descSize=18&descColor=aaaaff"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=MERN+Stack+Developer+%7C+Python+Developer;Oracle+Cloud+Certified+AI+Associate;MongoDB+Certified+Developer+%7C+300%2B+LeetCode;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%7C+CI%2FCD;B.E.+in+Information+Technology+%40+CBIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=MERN+Stack+Developer+%7C+Python+Developer;Oracle+Cloud+Certified+AI+Associate;MongoDB+Certified+Developer+%7C+400%2B+LeetCode;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%7C+CI%2FCD;B.E.+in+Information+Technology+%40+CBIT" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -62,6 +62,17 @@ naveen = {
 
 ## Projects
 
+**AuraWork Workspace Companion**
+`FastAPI` `Gemini API` `Meta Graph API` `OAuth 2.0` `Fernet Cryptography` `SQLite` `Python`
+
+- Architected a multi-model AI routing engine with a sequential fallback chain (Gemini ➔ Groq ➔ OpenRouter ➔ DeepSeek) to dynamically delegate user requests with zero-downtime fault tolerance.
+- Integrated WhatsApp with Jira, Slack, and Gmail APIs using clean SOLID principles, establishing an Operations Registry for complex actions like threaded replies, attachment forwarding, and automated digests.
+- Engineered a granular session context registry and AES-128 Fernet encrypted SQLite storage to securely resolve conversational references across user sessions.
+
+<a href="https://github.com/naveen-ramavath/AuraWork" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+
+---
+
 **Agri AI Advisory System**
 `React.js` `Node.js` `MongoDB` `TensorFlow`
 
@@ -105,7 +116,7 @@ naveen = {
 ---
 
 ## Achievements
-- **LeetCode** — <a href="https://leetcode.com/u/naveenramavath4203/" target="_blank">Solved 300+ DSA Problems</a>
+- **LeetCode** — <a href="https://leetcode.com/u/naveenramavath4203/" target="_blank">Solved 400+ DSA Problems</a>
 - **Project Leadership** — Led a 6-member team during the Cloud Computing Internship project development.
 - **Sudhee Hackathon** — Volunteer and Participant at CBIT.
 
