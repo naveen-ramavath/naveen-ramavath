@@ -66,7 +66,7 @@ naveen = {
 `FastAPI` `Gemini API` `Meta Graph API` `OAuth 2.0` `Fernet Cryptography` `SQLite` `Python`
 
 - Architected a multi-model AI routing engine with a sequential fallback chain (Gemini ➔ Groq ➔ OpenRouter ➔ DeepSeek) to dynamically delegate user requests with zero-downtime fault tolerance.
-- Integrated WhatsApp with Jira, Slack, and Gmail APIs using clean SOLID principles, establishing an Operations Registry for complex actions like threaded replies, attachment forwarding, and automated digests.
+- Integrated WhatsApp with Jira, Slack, and Gmail APIs using clean SOLID principles, establishing an Operations Registry for complex actions like threaded replies, attachment forwarding, and automated digests..
 - Engineered a granular session context registry and AES-128 Fernet encrypted SQLite storage to securely resolve conversational references across user sessions.
 
 <a href="https://github.com/naveen-ramavath/AuraWork" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
