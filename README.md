@@ -116,7 +116,7 @@ naveen = {
 ---
 
 ## Achievements
-- **LeetCode** — <a href="https://leetcode.com/u/naveenramavath4203/" target="_blank">Solved 400+ DSA Problems</a>
+- **LeetCode** — <a href="https://leetcode.com/u/naveenramavath4203/" target="_blank">Solved 450+ DSA Problems</a>
 - **Project Leadership** — Led a 6-member team during the Cloud Computing Internship project development.
 - **Sudhee Hackathon** — Volunteer and Participant at CBIT.
 
