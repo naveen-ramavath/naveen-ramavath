@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ramavath%20Naveen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20CBIT%20IT&descAlignY=58&descSize=18&descColor=aaaaff"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=MERN+Stack+Developer+%7C+Python+Developer;Oracle+Cloud+Certified+AI+Associate;MongoDB+Certified+Developer+%7C+400%2B+LeetCode;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%7C+CI%2FCD;B.E.+in+Information+Technology+%40+CBIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=MERN+Stack+Developer+%7C+Python+Developer;Oracle+Cloud+Certified+AI+Associate;MongoDB+Certified+Developer+%7C+450%2B+LeetCode;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%7C+CI%2FCD;B.E.+in+Information+Technology+%40+CBIT" alt="Typing SVG" />
 </a>
 
 <br/><br/>
